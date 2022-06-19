@@ -1,0 +1,20 @@
+h_display
+    *UI
+        -refaire tout le disgn 
+    
+    *FUNCTION
+        -animation
+        -passer dessus
+        -trigger @done
+    
+    *DRAW
+        -carrer @done
+        -cercle @done
+        -sprite @done
+        -text @done
+        -line
+    
+    *AUTRE
+        -calque /
+        -selection plusieur (click droit)
+        -
